@@ -1,0 +1,9 @@
+## Interface: 90100
+## Title: SpitFix
+## Author: 10xJSChad
+## Version: 1.0
+
+main.lua
+
+#This addon "fixes" the /spit command after it was changed to no longer allow use on targets
+#It replaces a targeted /spit with "/me spits on *target*"
